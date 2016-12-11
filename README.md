@@ -1,6 +1,6 @@
 # Python-games
 Some little programs
 
-/!\ TPTC is NOT finished yet. Plus, to come:
+/!\ Tic Tac Toe is NOT finished yet. Plus, to come:
 * AI opponent.
 * a graphic version.
