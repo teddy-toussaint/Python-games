@@ -1,10 +1,11 @@
 '''
-Created on 20 juin 2016
+Created on June 20th 2016
 
 @author: ttoussaint
+
+This file contains the list of words, the number of chances allowed...
 '''
 
-''' This file contains the list of words, the number of chances allowed... '''
 
 words = ["birthday",
          "cupcake",

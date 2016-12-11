@@ -1,12 +1,13 @@
 '''
-Created on 20 juin 2016
+Created on June 20th 2016
 
 @author: ttoussaint
+
+This file contains all the functions of the program
 '''
+
 import pickle
 import random
-''' This file contains all the functions of the program '''
-
 
 def checkScore(player):
     try:
