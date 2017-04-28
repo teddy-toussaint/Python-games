@@ -46,7 +46,7 @@ while 1:
     n = randrange(50)
     print("Nombre tiré: {}.\n".format(n))
     
-    # Renvoi du r�sultat
+    # Renvoi du résultat
     if a == n:
         print("Félicitations !!! Vous gagnez 3 fois votre mise, soit {}$ !".format(3*m))
         s += m + 3*m
@@ -60,7 +60,7 @@ while 1:
     
     # Fin potentielle du programme
     if s == 0:
-        print("Vous n'avez plus d'argent : fin du jeu. Merci de votre participation, et � bient�t !")
+        print("Vous n'avez plus d'argent : fin du jeu. Merci de votre participation, et à bientôt !")
         break
         
     while 1:
